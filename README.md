@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am Michael Wojtera, studying on app development. Currently looking into .Net, RESTfull API’s and SQL Server.
+I am Michael Wojtera, studying about app development. Currently looking into .Net, RESTfull API’s and SQL Server.
 
 
 <!---
